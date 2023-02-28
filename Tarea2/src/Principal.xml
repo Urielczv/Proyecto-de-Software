@@ -1,0 +1,23 @@
+<llamadas>
+    <llamada>
+        <nombre>Diana</nombre>
+        <numero>5550536030</numero>
+        <tipo>Entrante</tipo>
+        <SECCION>seccion2</SECCION>
+        <zona>n</zona>
+    </llamada>
+    <llamada>
+        <nombre>Luis</nombre>
+        <numero>5518092715</numero>
+        <tipo>Entrante</tipo>
+        <SECCION>seccion1</SECCION>
+        <zona>e</zona>
+    </llamada>
+    <llamada>
+        <nombre>Rodrigo</nombre>
+        <numero>5557586023</numero>
+        <tipo>Salida</tipo>
+        <SECCION>seccion2</SECCION>
+        <zona>s</zona>
+    </llamada>
+</llamadas>
